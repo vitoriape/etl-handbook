@@ -1,0 +1,3 @@
+DesvioAcumulado = CALCULATE([Desvio], 
+                    FILTER(ALL(Ciclos[Período]),
+                        Ciclos[Período] <= MAX(Ciclos[Período])))
