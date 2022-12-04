@@ -5,3 +5,24 @@ Variável = CALCULATE(SUM('FontedeDados'[ValorTotal]),
                             "VALOR 3",
                             "VALOR 4",
                             "VALOR 5" })
+                            
+                            
+Variável = CALCULATE(COUNT('FontedeDados'[ValorTotal]),
+                AND('FontedeDados'[Critério1]
+                        IN { "VALOR 1" },
+                    'FontedeDados'[Critério2]
+                        IN {"VALOR 2"}))
+                        
+                        
+Variável = CALCULATE(COUNT('FontedeDados'[ValorTotal]),
+                AND(AND('FontedeDados'[Critério1]
+                            IN { "VALOR 1" },
+                        'FontedeDados'[Critério2]
+                            IN {"VALOR 2"}),
+                        'FontedeDados'[Critério3]
+                            IN {"VALOR 3",
+                                "VALOR 4",
+                                "VALOR 5",
+                                "VALOR 6",
+                                "VALOR 7",
+                                "VALOR 8"}))
