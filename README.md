@@ -1,29 +1,7 @@
-<h3 align="center"> 
-  <img alt="etl_handbook banner" src="assets/etl_handbook.png" width="1000" height="400">
-</h3>
+# ETL Handbook <img src="assets/dataset.png" width="10%" height="10%" align="right" valign="center"/> 
 
-<h1 align="center">
-   <a href="#"> ETL HANDBOOK </a>
-</h1>
-
-<h3 align="center">
-    ETL Work Model
-</h3>
-
-
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitoriape/etl-handbook?color=%23ff5c33">
-  
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vitoriape/etl-handbook">
-  
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vitoriape/etl-handbook?color=%ffff00">
-  </a>
-</p>
-
-<h4 align="center"> 
-	 Status: Ongoing
-</h4>
-
+![learning](https://img.shields.io/badge/SQL/Excel/Python/PowerBI-learning-green.svg)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/vitoriape/etl-handbook&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
 

@@ -1,1 +1,0 @@
-ALTER TABLE nome_tabela DROP COLUMN endereco;--Deleta uma coluna específica
